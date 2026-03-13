@@ -177,8 +177,13 @@
   .nav-links {
     flex-wrap: wrap;
   }
+}
 
-  .hero-ornament {
-    gap: 0.9rem;
-  }
+.page-content {
+  padding: 3rem 0 4rem;
+}
+
+.card-stack {
+  display: grid;
+  gap: 1rem;
 }
