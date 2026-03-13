@@ -116,3 +116,12 @@
     flex-wrap: wrap;
   }
 }
+
+.page-content {
+  padding: 3rem 0 4rem;
+}
+
+.card-stack {
+  display: grid;
+  gap: 1rem;
+}
